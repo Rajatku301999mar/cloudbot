@@ -1,0 +1,27 @@
+pip freeze
+asgiref==3.3.1
+astroid==2.4.2
+backcall==0.2.0
+colorama==0.4.4
+decorator==4.4.2
+Django==3.1.4
+gunicorn==20.0.4
+image==1.5.33
+ipykernel==5.3.4
+ipython==7.19.0
+ipython-genutils==0.2.0
+isort==5.6.4
+jedi==0.17.2
+jupyter-client==6.1.7
+jupyter-core==4.6.3
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+parso==0.7.1
+pickleshare==0.7.5
+Pillow==8.0.1
+prompt-toolkit==3.0.8
+pycryptodome==3.9.9
+Pygments==2.7.2
+pylint==2.6.0
+pynput==1.7.1
+PySimpleGUI==4.32.1
